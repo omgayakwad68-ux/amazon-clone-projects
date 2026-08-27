@@ -7,7 +7,7 @@ https://omgayakwad68-ux.github.io/amazon-clone-projects/
 
 ## Tech Stack
 - HTML5
-- CSS3
+- CSS
 
 ## Features
 - Responsive navigation bar with branding
